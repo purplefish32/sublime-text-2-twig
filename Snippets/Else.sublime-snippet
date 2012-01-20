@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+{% else %}
+    $0
+]]></content>
+	<description>Twig : Else</description>
+	<tabTrigger>else</tabTrigger>
+	<scope>text.html.twig</scope>
+</snippet>

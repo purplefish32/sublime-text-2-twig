@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+{{ $0 }}
+]]></content>
+	<description>Twig : Print</description>
+	<tabTrigger>print</tabTrigger>
+	<scope>text.html.twig</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+{% block ${1:name} %}$0{% endblock %}
+]]></content>
+	<description>Twig : Block (block)</description>
+	<tabTrigger>blockb</tabTrigger>
+	<scope>text.html.twig</scope>
+</snippet>

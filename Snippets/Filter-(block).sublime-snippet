@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+{% filter ${1:name} %}
+    $0
+{% endfilter %}
+]]></content>
+	<description>Twig : Filter (block)</description>
+	<tabTrigger>filterb</tabTrigger>
+	<scope>text.html.twig</scope>
+</snippet>

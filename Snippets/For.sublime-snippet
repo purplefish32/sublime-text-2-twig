@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+{% for ${1:item} in ${2:seq} %}
+    $0
+{% endfor %}
+]]></content>
+	<description>Twig : For</description>
+	<tabTrigger>for</tabTrigger>
+	<scope>text.html.twig</scope>
+</snippet>

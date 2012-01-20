@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+{# $0 #}
+]]></content>
+	<description>Twig : Comment</description>
+	<tabTrigger>comment</tabTrigger>
+	<scope>text.html.twig</scope>
+</snippet>

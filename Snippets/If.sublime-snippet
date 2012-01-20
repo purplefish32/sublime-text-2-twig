@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+{% if ${1:condition} %}$0{% endif %}
+]]></content>
+	<description>Twig : If</description>
+	<tabTrigger>if</tabTrigger>
+	<scope>text.html.twig</scope>
+</snippet>

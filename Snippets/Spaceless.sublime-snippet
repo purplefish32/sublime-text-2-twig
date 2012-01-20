@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+{% spaceless %}
+    $0
+{% endspaceless %}
+]]></content>
+	<description>Twig : Spaceless</description>
+	<tabTrigger>spaceless</tabTrigger>
+	<scope>text.html.twig</scope>
+</snippet>

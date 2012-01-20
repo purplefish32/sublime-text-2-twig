@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+{% include '${1:template}' ${2:with ${3:vars}${4: only}} %}$0
+]]></content>
+	<description>Twig : Include</description>
+	<tabTrigger>include</tabTrigger>
+	<scope>text.html.twig</scope>
+</snippet>
