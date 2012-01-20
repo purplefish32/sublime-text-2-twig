@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-{% set ${1:var} = ${2:value} %}$0
-]]></content>
-	<description>Set</description>
-	<tabTrigger>set</tabTrigger>
-	<scope>text.html.twig</scope>
-</snippet>

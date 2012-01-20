@@ -1,8 +1,0 @@
-<snippet>
-	<content><![CDATA[
-{% $0 %}
-]]></content>
-	<description>Do</description>
-	<tabTrigger>do</tabTrigger>
-	<scope>text.html.twig</scope>
-</snippet>
