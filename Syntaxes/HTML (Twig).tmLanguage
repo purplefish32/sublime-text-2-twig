@@ -282,7 +282,7 @@
                 </dict>
             </dict>
             <key>end</key>
-            <string>(?&lt;=&lt;/(script|SCRIPT))(&gt;)(?:\s*\n)?</string>
+            <string>(?:^\s+)?(&lt;)((?i:script))\b(?![^&gt;]*type=["']text\/(?:html|template)['"]|[^&gt;]*\/&gt;)</string>
             <key>endCaptures</key>
             <dict>
                 <key>2</key>
